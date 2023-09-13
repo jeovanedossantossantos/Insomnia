@@ -35,6 +35,7 @@ Nesse documento mostraremos o passo a passo para fazer a documentão de uma api 
 
 # Final, agora você pode hospedar a sua documentação.
 
+<!-- 
 # API
 
 <h3>Configurações<h3>
@@ -67,3 +68,4 @@ Nesse documento mostraremos o passo a passo para fazer a documentão de uma api 
   
          git checkout master ou main
          git merge <nome_da_branch_que_vai_ter_suas_alterções_mandadas_para_a_main>
+-->
